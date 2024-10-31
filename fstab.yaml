@@ -1,5 +1,4 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
-
+  /: https://docs.google.com/spreadsheets/d/1IYyxXhaw3rhBIpwc7yqFhO2whrDZKvC294T3sjAd134/edit?gid=268317424#gid=268317424
 folders:
   /products/: /products/default
